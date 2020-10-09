@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import TodoForm from './TodoForm';
+import TodoForm from './Form';
 import { TiDeleteOutline } from 'react-icons/ti';
 import { TiEdit } from 'react-icons/ti';
 
